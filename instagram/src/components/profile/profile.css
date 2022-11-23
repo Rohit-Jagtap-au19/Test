@@ -3,7 +3,7 @@
     padding-top: 20px;
     background-color: azure;
     justify-content: center;
-    width: 100vw;
+    overflow: hidden;
 }
 .profile_picture{
     height: 200px;
@@ -16,7 +16,7 @@
 }
 .description{
     padding-top: 50px;
-    margin-left: 50px;
+    margin-left: 40px;
 }
 #like ,#follow, #following{
     margin-right: 20px;
