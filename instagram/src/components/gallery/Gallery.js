@@ -14,12 +14,12 @@ import img8 from '../Images/img8.jpg'
 
 const Gallery = () => {
     const photos = [
-        { id: 1, img: img1, name: "pournima" },
-        { id: 2, img: img2, name: "Yuvraj" },
-        { id: 3, img: img3, name: "Gaikwad" },
+        { id: 1, img: img1, name: "Rohit" },
+        { id: 2, img: img2, name: "Rohit" },
+        { id: 3, img: img3, name: "Rohit" },
         { id: 4, img: img4, name: "Rohit" },
-        { id: 5, img: img5, name: "Ramesh" },
-        { id: 6, img: img6, name: "Jagtap" }
+        { id: 5, img: img5, name: "Rohit" },
+        { id: 6, img: img6, name: "Rohit" }
     ]
 
     return (
