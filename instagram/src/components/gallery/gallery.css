@@ -1,10 +1,31 @@
-#gallery_image {
-    height: 100%;
-    width: 100%;
-    background-color: azure;
+.pop_up {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    text-align: center;
+    align-items: center;
+    padding: 5rem;
 }
 
-.images-wrapper {
-    display: flex;
+#images {
+    height: 500px;
+    width: 500px;
+    border: 2.5px solid white;
     justify-content: space-between;
+    margin: 1rem;
+    transition: 1s;
+}
+
+#images:hover {
+    transform: scale(1.1);
+}
+
+.data {
+    margin-right: 2rem;
+}
+
+#imgName {}
+
+.image {
+    overflow: hidden;
 }

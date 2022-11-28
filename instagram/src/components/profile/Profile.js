@@ -9,8 +9,8 @@ const Profile = () => {
                 <span className="tag">through_my_quirky_lence</span>
                 <div className="info">
                     <div className="like">30 <span id='like'>like</span></div>
-                    <div className="follow">1K <span id='follow'>follower</span></div>
-                    <div className="following">2K <span id='following'>following</span></div>
+                    <div className="follow">1 K <span id='follow'>follower</span></div>
+                    <div className="following">2 K <span id='following'>following</span></div>
                 </div>
                 <div className="user_details">
                     <div className="name">Rohit R Jagtap</div>

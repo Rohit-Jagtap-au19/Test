@@ -1,6 +1,6 @@
 import React from 'react'
 import header from '../header/header.css'
-
+import img from '../Images/img8.jpg'
 
 const Header = () => {
   return (
@@ -11,6 +11,7 @@ const Header = () => {
             alt="Instagram original logo"
           />
           </div>
+          <img id='Pic' src={img} alt="" />
           </div>
   )
 }
